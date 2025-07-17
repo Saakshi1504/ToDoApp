@@ -14,4 +14,4 @@ A simple and interactive To-Do List web application designed to help you manage 
 
 - **HTML5:** For the basic structure of the web page.
 - **CSS3:** For styling and layout.
-- **JavaScript (Vanilla):** For all interactive functionalities and local storage management.
+- **JavaScript:** For all interactive functionalities and local storage management.
